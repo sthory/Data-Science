@@ -8,4 +8,4 @@
 
 :heavy_check_mark:The GitHub History of the Scala Language
 
-![image1](1.png)
+![image1](1.jpg)
