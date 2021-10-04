@@ -1,4 +1,4 @@
-# Data-Science (Only Exploratory Analysis, to see projects in more depth consult the repositories of Machine learning, Natural Language Processing and Computer Vision)
+# Data-Science (Only VERY BASIC Exploratory Analysis, to see projects in more depth consult the repositories of Machine learning, Natural Language Processing and Computer Vision)
 
 :heavy_check_mark:Investigating Netflix Movies and Guest Stars in The Office
 
